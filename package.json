@@ -1,0 +1,39 @@
+{
+    "name": "rider-dark-theme",
+    "displayName": "Rider Dark Theme",
+    "description": "A dark theme inspired by JetBrains Rider's color palette.",
+    "version": "1.0.0",
+    "publisher": "delarmuss",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "dark",
+        "rider",
+        "jetbrains",
+        "theme",
+        "color theme"
+    ],
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#202020",
+        "theme": "dark"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Rider Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/rider-dark-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/delarmuss/rider-dark-theme"
+    },
+    "license": "MIT"
+}
