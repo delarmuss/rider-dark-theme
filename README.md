@@ -15,7 +15,7 @@ A dark color theme for Visual Studio Code inspired by JetBrains Rider's color pa
 3. Click **Install**
 4. Open Command Palette (`Ctrl+Shift+P`) → `Preferences: Color Theme` → Select **Rider Dark Theme**
 
-- Download from [Marketplace](https://marketplace.visualstudio.com/items?itemName=delarmuss.rider-dark-theme)
+> Download from [Marketplace](https://marketplace.visualstudio.com/items?itemName=delarmuss.rider-dark-theme)
 
 ## Recommended Settings
 
