@@ -2,7 +2,7 @@
     "name": "rider-dark-theme",
     "displayName": "Rider Dark Theme",
     "description": "A dark theme inspired by JetBrains Rider's color palette.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "delarmuss",
     "engines": {
         "vscode": "^1.60.0"
@@ -25,9 +25,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Rider Dark Theme",
+                "label": "Rider Dark Borderless",
                 "uiTheme": "vs-dark",
-                "path": "./themes/rider-dark-color-theme.json"
+                "path": "./themes/rider-dark-borderless.json"
             }
         ]
     },
