@@ -2,7 +2,7 @@
     "name": "rider-dark-theme",
     "displayName": "Rider Dark Theme",
     "description": "A dark theme inspired by JetBrains Rider's color palette.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "delarmuss",
     "engines": {
         "vscode": "^1.60.0"
