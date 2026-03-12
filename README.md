@@ -2,12 +2,6 @@
 
 A dark color theme for Visual Studio Code inspired by JetBrains Rider's color palette.
 
-## Features
-
-- Dark background optimized for long coding sessions
-- Carefully chosen syntax colors for readability
-- Support for: JavaScript, TypeScript, HTML, CSS, JSON, YAML, XML, Markdown, and more
-
 ## Installation
 
 1. Open **Extensions** in VS Code (`Ctrl+Shift+X`)
